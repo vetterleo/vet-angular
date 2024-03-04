@@ -2,7 +2,7 @@
   "devDependencies": {
   },
   "name": "@leovetter/vet-angular",
-  "version": "1.0.8",
+  "version": "1.0.9",
   "main": "dist/index.js",
   "module": "dist/index.js",
   "types": "./src/index.d.ts",

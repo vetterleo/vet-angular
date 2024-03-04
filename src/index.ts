@@ -1,1 +1,1 @@
-export * from  "./http";
+export { get } from  "./http";
