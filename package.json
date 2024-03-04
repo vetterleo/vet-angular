@@ -1,10 +1,8 @@
 {
   "devDependencies": {
-    "@types/node": "^20.11.20",
-    "typescript": "^5.3.3"
   },
   "name": "@leovetter/vet-angular",
-  "version": "1.0.7",
+  "version": "1.0.8",
   "main": "dist/index.js",
   "module": "dist/index.js",
   "types": "./src/index.d.ts",
